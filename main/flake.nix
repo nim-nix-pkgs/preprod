@@ -11,7 +11,6 @@
   inputs.src-preprod-main.ref   = "refs/heads/main";
   inputs.src-preprod-main.owner = "j-a-s-d";
   inputs.src-preprod-main.repo  = "preprod";
-  inputs.src-preprod-main.dir   = "";
   inputs.src-preprod-main.type  = "github";
   
   inputs."xam".owner = "nim-nix-pkgs";

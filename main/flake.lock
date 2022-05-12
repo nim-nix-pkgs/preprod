@@ -43,11 +43,11 @@
     "src-preprod-main": {
       "flake": false,
       "locked": {
-        "lastModified": 1644378085,
-        "narHash": "sha256-Jv6XswitJfJ/jqrFZdv7nm+eF0vFvJ9DISa5ycX9apI=",
+        "lastModified": 1652387527,
+        "narHash": "sha256-ufvlrXXR2bPEzzvh20tbp9CHNmD0yOz4Z7frnBgRktk=",
         "owner": "j-a-s-d",
         "repo": "preprod",
-        "rev": "6114d3389e9a0e55453acf4da5aff358e1c57ba0",
+        "rev": "c7cf78bac5730a54db520d4a24ac93c15292422f",
         "type": "github"
       },
       "original": {
@@ -86,11 +86,11 @@
       },
       "locked": {
         "dir": "1_8_0",
-        "lastModified": 1651918616,
-        "narHash": "sha256-5fKT3COGosrzM18n7xJYawmmKMg7NfFGbJYbMwOxbec=",
+        "lastModified": 1652391732,
+        "narHash": "sha256-T8272V8bwJjWrE+jokV+BMrL3FQsqGGGeTVBGyjXJ3I=",
         "owner": "nim-nix-pkgs",
         "repo": "xam",
-        "rev": "f44436047d29d24a87b5110b89909cb4aa76bce1",
+        "rev": "793fc9eb1bac67efb7a246e4a9b19b7e301b567c",
         "type": "github"
       },
       "original": {
